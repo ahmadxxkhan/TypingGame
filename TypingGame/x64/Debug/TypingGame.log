@@ -1,0 +1,7 @@
+﻿  TypingGame.cpp
+C:\Users\Admin\OneDrive\Desktop\Typing Game\Typing Game\TypingGame\TypingGame.cpp(134,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\OneDrive\Desktop\Typing Game\Typing Game\TypingGame\TypingGame.cpp(134,53): warning C4244:         with
+C:\Users\Admin\OneDrive\Desktop\Typing Game\Typing Game\TypingGame\TypingGame.cpp(134,53): warning C4244:         [
+C:\Users\Admin\OneDrive\Desktop\Typing Game\Typing Game\TypingGame\TypingGame.cpp(134,53): warning C4244:             T=unsigned int
+C:\Users\Admin\OneDrive\Desktop\Typing Game\Typing Game\TypingGame\TypingGame.cpp(134,53): warning C4244:         ]
+  TypingGame.vcxproj -> C:\Users\Admin\OneDrive\Desktop\Typing Game\Typing Game\TypingGame\x64\Debug\TypingGame.exe
